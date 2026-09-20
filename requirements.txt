@@ -2,3 +2,11 @@ Package Version
 ------- -------
 pathlib 1.0.1
 pip     26.2.1
+Package           Version
+----------------- -------
+bitarray          3.11.0
+bitstring         4.4.0
+fast-bencode      1.1.8
+pip               26.2.1
+python-aiotorrent 0.8.3
+tibs              0.5.7

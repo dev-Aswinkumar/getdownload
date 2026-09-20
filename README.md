@@ -63,6 +63,9 @@ getdownload/
 ├── README.md
 └── LICENSE
 ```
+## Ai used
+
+used opencode for the progress bar
 
 ## License
 
